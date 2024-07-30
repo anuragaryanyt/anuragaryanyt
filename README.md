@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/anuragaryanyt" target="blank"><img src="https://img.shields.io/twitter/follow/anuragaryanyt?logo=twitter&style=for-the-badge" alt="anuragaryanyt" /></a> </p>
 
-- 🌱 I’m currently learning **Database Management, App Development**
+- 🌱 I’m currently learning **Database Management and ML**
 
 - 📫 How to reach me **anuragraj718@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1uqSJGsIZeViRX317XdiZMFGmIrK5bsiR/view?usp=sharing](https://drive.google.com/file/d/1uqSJGsIZeViRX317XdiZMFGmIrK5bsiR/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
