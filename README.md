@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Raj Aryan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragaryanyt&label=Profile%20views&color=0e75b6&style=plastic" alt="anuragaryanyt" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragaryanyt" alt="anuragaryanyt" /></a> </p>
+
 - 🌱 I’m currently learning **Database Management and ML**
 
 - 👨‍💻 All of my projects are available at [https://rajaryan.netlify.app/](https://rajaryan.netlify.app/)
