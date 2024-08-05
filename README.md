@@ -33,3 +33,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragaryanyt&show_icons=true&locale=en&layout=compact" alt="anuragaryanyt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragaryanyt&" alt="anuragaryanyt" /></p>
+
+<br>
+<p align="center">
+ <img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
+
