@@ -26,7 +26,7 @@
 <h3 align="left">Medium Stories</h3>
 <p align="left">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anuragaryanyt/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anuragaryanyt/0" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anuragaryanyt/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anuragaryanyt/2" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anuragaryanyt/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anuragaryanyt/1" alt="Recent Article 1"> 
 </p>
 
 <br>
