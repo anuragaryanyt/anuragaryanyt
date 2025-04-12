@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Database Management and ML**
 
-- 👨‍💻 All of my projects are available at [https://rajaryan.netlify.app/](https://anuragaryanyt.site/)
+- 👨‍💻 All of my projects are available at [https://anuragaryanyt.site/](https://anuragaryanyt.site/)
 
 - 📫 How to reach me **anuragraj718@gmail.com**
 <br>
