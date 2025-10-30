@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://anuragaryanyt.site/](https://anuragaryanyt.site/)
 
-- 📫 How to reach me **anuragraj718@gmail.com**
+- 📫 How to reach me **rajaryann@zohomail.in**
 <br>
 
 ## 🌐 Socials:
